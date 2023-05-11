@@ -1,8 +1,11 @@
-# my_app
+# Image Encryption Using XOR.
 
-A new Flutter project.
+## How to Set-Up Locally ( Visual - Studio Code Method )
 
-## Getting Started
+- Clone this repo in to your local machine folder.
+- Open this folder in you visual studio code editor.
+- Get Dependencies by running - "flutter pub get"
+- After this run - "flutter run" ( to run you app in your connected device ).
 
 This project is a starting point for a Flutter application.
 
