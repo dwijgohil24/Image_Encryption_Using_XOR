@@ -98,7 +98,8 @@ class _MyHomePageState extends State<MyHomePage> {
 
       // Create a temporary file to store the XOR result
       final tempDir = await Directory.systemTemp.createTemp();
-      final xorImageFile = File('${tempDir.path}/xor_image.png');
+      final xorImageFile = File(
+          '${tempDir.path}/xor_image.png'); //file will be stored in temporary directory with name "xor_image"
       await xorImageFile.writeAsBytes(xorImageBytes);
 
       setState(() {
