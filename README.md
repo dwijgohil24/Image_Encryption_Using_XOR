@@ -7,7 +7,11 @@
 - Get Dependencies by running - "flutter pub get"
 - After this run - "flutter run" ( to run you app in your connected device ).
 
-This project is a starting point for a Flutter application.
+## Preview of Application.
+
+![WhatsApp Image 2023-05-11 at 23 32 51](https://github.com/dwijgohil24/Image_Encryption_Using_XOR/assets/80956416/b5eeba1f-c335-41c6-8e53-54361a4c7d5f)
+
+## Additional Resources.
 
 A few resources to get you started if this is your first Flutter project:
 
